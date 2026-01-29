@@ -66,3 +66,10 @@ Built an intuitive Power BI dashboard for visual exploration of:
 5. **Targeted Marketing** – Focus on high-revenue age groups and express shipping users
 
 ## 📁 Repository Structure
+├── data/ # Dataset files
+├── notebooks/ # Jupyter notebooks (EDA & cleaning)
+├── sql/ # SQL queries for business analysis
+├── powerbi/ # Power BI dashboard file
+├── scripts/ # Python scripts for automation
+├── images/ # Screenshots and visuals
+└── README.md
